@@ -1,6 +1,5 @@
 # tugasapitpm
-
-A new Flutter project.
+JSON web API for Project Gutenberg ebook metadata : https://gutendex.com/books/?page=3
 
 ## Getting Started
 
